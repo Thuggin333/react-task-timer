@@ -1,0 +1,25 @@
+.jam {
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  color: white;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 9, 66, 1) 35%,
+    rgba(60, 112, 162, 1) 68%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.content {
+  color: white;
+}
+
+.title {
+  color: wheat;
+}
